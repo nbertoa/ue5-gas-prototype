@@ -5,7 +5,7 @@ A focused C++ prototype built to study and implement the **Gameplay Ability Syst
 Built following the [UE5 GAS Crash Course](https://www.udemy.com/course/ue5-gas-crash-course/) as a structural foundation, with my own C++ implementation throughout.
 
 📺 [Gameplay Demo on YouTube](https://youtu.be/6nPvOgx6aTw)  
-📝 [Full technical breakdown on my blog](https://nbertoa.wordpress.com/2026/04/01/unreal-5-6-c-gas-prototype/)
+📝 [Full technical breakdown on my blog](https://nbertoa.com/2026/04/01/unreal-5-6-c-gas-prototype/)
 
 ---
 
@@ -185,6 +185,6 @@ GASPrototype/
 
 ## About
 
-**Nicolás Bertoa** — Unreal Engine developer with 14+ years of professional experience, focused on C++ and gameplay systems.
+**Nicolás Bertoa** — Senior R&D Prototyping Engineer with 15+ years of professional experience, including R&D work for DreamWorks Animation and Sony Interactive Entertainment. Focused on Unreal Engine, C++, real-time systems, and technical prototyping.
 
-🌐 [Portfolio](https://nbertoa.wordpress.com) | 🎬 [Demo Reels](https://nbertoa.wordpress.com/demo-reels/)
+🌐 [Portfolio](https://nbertoa.com/) | 🎬 [Demo Reels](https://nbertoa.com/demo-reels/)
